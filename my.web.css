@@ -1,0 +1,36 @@
+body {
+    margin-top: 50px;
+}
+
+.jumbotron img {
+    width: 25%;
+}
+
+section {
+    min-height: 420px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top:12px;
+} 
+.footer {
+    background-color:rgb(rgb(255, 255, 255));
+    height: 270px;
+}
+.footer-logo {
+    font-size:20px;
+}
+.footer-list li{
+    list-style:none;
+    color:black;
+}
+.footer-list img {
+    float:left;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 5px;
+}
+.footer-list h4 {
+    padding:5px 5px 5px 70px;
+}

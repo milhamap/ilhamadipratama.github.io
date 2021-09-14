@@ -18,8 +18,8 @@ footer {
     background-color:rgb(rgb(255, 255, 255));
     height: 270px;
 }
-.footer-logo {
-    font-size:20px;
+.footer-logo h3{
+    font-size:23px;
 }
 .footer-list li{
     list-style:none;
@@ -27,10 +27,11 @@ footer {
 }
 .footer-list img {
     float:left;
-    width: 40px;
-    height: 40px;
+    width: 35px;
+    height: 35px;
     margin-bottom: 5px;
 }
 .footer-list h4 {
-    padding:5px 5px 5px 70px;
+    padding:10px 10px 10px 40px;
+    font-size: 18px;
 }
